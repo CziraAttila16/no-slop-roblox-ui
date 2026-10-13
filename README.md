@@ -9,8 +9,8 @@ The definitive AI Skill & MCP tool for **Google Antigravity**, **Claude Desktop*
 ## ⚡ How It Works (The 1:1 Workflow)
 
 1. **You upload ANY UI screenshot** (Shop, Codes, Rebirth, Daily Rewards, Pet Inventory, Brainrot Gamepass menu).
-2. **You ask**: *"Csináld meg ezt Roblox Studioba!"* ("Build this 1:1 in Roblox Studio!").
-3. **The AI activates this Skill and**:
+2. **You ask**: *Make this in Roblox Studio!"* ("Build this 1:1 in Roblox Studio!").
+4. **The AI activates this Skill and**:
    - 🔍 Analyzes the exact layout, colors, gradients, and typography.
    - 🧱 Injects the **Lego Studs Background** and **Checkerboard Damier** overlays.
    - 🎯 Resolves all icons from verified `rbxassetid://` registries or local 2,900+ icon packs.
